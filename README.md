@@ -1,4 +1,4 @@
-This dApp has three user types:
+Adhikaar has three user types:
 
 # Admins
 Voters
